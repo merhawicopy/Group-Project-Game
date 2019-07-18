@@ -10,11 +10,11 @@ It is mostly a collaboration of work.
 
 ### List of reading/materials
 
-https://www.codeproject.com/Articles/199525/Drawing-nearly-perfect-D-line-segments-in-OpenGL
-http://ogldev.atspace.co.uk/
-Youtube 
-https://learnopengl.com/#!Getting-started/Textures
-OpenGL Development Cookbook (Textbook)
+- <https://www.codeproject.com/Articles/199525/Drawing-nearly-perfect-D-line-segments-in-OpenGL>
+- <http://ogldev.atspace.co.uk/>
+- Youtube 
+- <https://learnopengl.com/#!Getting-started/Textures>
+- OpenGL Development Cookbook (Textbook)
 
 ### Compatibility
 
